@@ -1,5 +1,5 @@
-#Aileron
-[ドットコロン](http://dotcolon.net/)で公開しているオリジナルフォント「Aileron」のソースファイルです。
+#Vegur
+[ドットコロン](http://dotcolon.net/)で公開しているオリジナルフォント「Vegur」のソースファイルです。
 [Glyphs font editor](http://glyphsapp.com/) で開くことができます。
 
 
